@@ -1,0 +1,6 @@
+sudo apt-get update && sudo apt-get install espeak
+sudo apt install libespeak1
+
+Django-TTS-REST-API-Pyttsx3-GTTS
+
+django tts generation using Pyttsx3 & GTTS
